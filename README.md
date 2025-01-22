@@ -45,4 +45,4 @@ git clone https://github.com/madinaaliyeva2003/PowerBI-Data-Professional-Survey.
 
 ## Screenshot
 
-![Main Dashboard](path/to/your/screenshot.png)
+![Main Dashboard](https://github.com/madinaaliyeva2003/PowerBI-Data-Professional-Survey/blob/main/images/Screenshot%202025-01-22%20145442.png?raw=true)
