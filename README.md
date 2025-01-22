@@ -38,8 +38,10 @@ This project visualizes and analyzes data from a survey conducted among data pro
 ### Clone the repository:
 ```bash
 git clone https://github.com/madinaaliyeva2003/PowerBI-Data-Professional-Survey.git
-Open the .pbix file in Power BI Desktop.
-Interact with the dashboard to explore the insights.
+```
+
+- Open the `.pbix` file in Power BI Desktop.
+- Interact with the dashboard to explore the insights.
 
 ## Screenshot
 
